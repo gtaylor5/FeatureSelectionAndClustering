@@ -1,0 +1,66 @@
+Iris Data Set
+
+Stepwise Forward Selection: 
+Feature Set: 2 3 
+Best performance: 97.06
+
+
+Stepwise Forward Selection (HAC): 
+Feature Set: 1 2 
+Best performance: 66.67
+
+
+Genetic Algorithm Selection (K-Means): 
+Feature Set: 0 1 1 1 
+Performance: 94.12
+
+
+Genetic Algorithm Selection (HAC): 
+Feature Set: 0 0 1 1 
+Performance: 62.50
+
+
+Glass Data Set
+
+Stepwise Forward Selection: 
+Feature Set: 2 6 
+Best performance: 41.38
+
+
+Stepwise Forward Selection (HAC): 
+Feature Set: 7 
+Best performance: 34.78
+
+
+Genetic Algorithm Selection (K-Means): 
+Feature Set: 1 1 0 1 1 0 0 1 0 
+Performance: 53.10
+
+
+Genetic Algorithm Selection (HAC): 
+Feature Set: 1 1 1 1 1 0 1 1 1 
+Performance: 46.38
+
+
+SpamBase Data Set
+
+Stepwise Forward Selection: 
+Feature Set: 32 52 
+Best performance: 80.08
+
+
+Stepwise Forward Selection (HAC): 
+Feature Set: 0 16 15 
+Best performance: 77.95
+
+
+Genetic Algorithm Selection (K-Means): 
+Feature Set: 1 0 0 0 0 0 0 0 1 0 1 0 0 1 0 0 0 0 0 0 1 1 1 1 0 1 1 0 0 1 0 0 0 0 1 1 0 1 0 1 1 1 1 1 0 1 0 1 1 1 0 0 0 0 0 0 0 
+Performance: 78.29
+
+
+Genetic Algorithm Selection (HAC): 
+Feature Set: 0 1 0 1 1 1 1 0 1 0 1 1 1 1 1 0 1 0 0 1 0 0 0 0 1 0 1 0 1 0 1 1 0 0 1 0 0 0 1 0 0 1 1 1 0 1 1 1 0 0 1 1 1 0 0 1 0 
+Performance: 67.58
+
+
